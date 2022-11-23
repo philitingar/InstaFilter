@@ -2,8 +2,6 @@
 An easy app where you can use basic filters on your photos. 
 Select the picture from the device
 ![Simulator Screen Shot - iPhone 14 Pro - 2022-11-23 at 17 39 12](https://user-images.githubusercontent.com/108877052/203602971-e37279fd-d8f8-4191-8a4f-b4385080c046.png)
-
-![Simulator Screen Shot - iPhone 14 Pro - 2022-11-23 at 17 39 24](https://user-images.githubusercontent.com/108877052/203603110-091ab378-9a79-4318-a710-bc409e6c1c0b.png)
 Select the image you want
 ![Simulator Screen Shot - iPhone 14 Pro - 2022-11-23 at 17 39 24](https://user-images.githubusercontent.com/108877052/203603181-c8db90a3-6c57-45d1-9374-5786b9793798.png)
 USe the filter you want  and then the intensity on it!
